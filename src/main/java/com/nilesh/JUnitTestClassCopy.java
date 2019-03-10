@@ -5,9 +5,10 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class JUnitTestClass {
+public class JUnitTestClassCopy {
 
-    private static final Logger LOG = LoggerFactory.getLogger(JUnitTestClass.class);
+    private static final Logger LOG = LoggerFactory.getLogger(JUnitTestClassCopy.class);
+
 
     @Test
     public void firstTestTrial(){
